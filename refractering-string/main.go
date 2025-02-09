@@ -39,7 +39,6 @@ func main() {
 
 }
 
-// this function refacters the string
 func reformatString(s string) string {
 	number := 0
 	character := 0
